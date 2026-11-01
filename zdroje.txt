@@ -1,0 +1,27 @@
+Fotky v této ukázce (všechny s volnou licencí pro komerční použití, bez nutnosti uvádět autora):
+
+foto/uvod-800|1600.webp  (1600×898)
+  stránka: https://www.pexels.com/photo/wooden-house-under-construction-on-sunny-day-37627540/
+  licence: Pexels License (https://www.pexels.com/license/)
+  úprava pro tuto stránku: barevně tónováno do barev firmy
+
+foto/02-domy-800|1600.webp  (1600×1068)
+  stránka: https://www.pexels.com/photo/gray-tree-trunks-1643388/
+  licence: Pexels License (https://www.pexels.com/license/)
+
+foto/03-krov-800|1600.webp  (1600×1066)
+  stránka: https://unsplash.com/photos/a-house-under-construction-with-wooden-framing-kkdfOe0iRu8
+  licence: Unsplash License (https://unsplash.com/license)
+
+foto/04-chata-800|1600.webp  (1600×1066)
+  stránka: https://unsplash.com/photos/a-cabin-in-the-woods-surrounded-by-trees-JSezq0Td59k
+  licence: Unsplash License (https://unsplash.com/license)
+  úprava: rozmazáno auto
+
+foto/05-osb-800|1600.webp  (1600×1199)
+  stránka: https://unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-Fz-FzC5t0Q8
+  licence: Unsplash License (https://unsplash.com/license)
+
+foto/06-fasada-800|1600.webp  (1600×1068)
+  stránka: https://unsplash.com/photos/gray-wooden-house-near-body-of-water-POycdKPE8KQ
+  licence: Unsplash License (https://unsplash.com/license)
